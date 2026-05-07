@@ -1,0 +1,362 @@
+======================================================================
+  ASYNC NEWS AGGREGATOR REPORT
+  Generated : 2026-05-07 14:18:07
+  Feeds     : 5
+  Keyword   : (none)
+  Items     : 50 / 132 total
+======================================================================
+
+── Fetch Errors ──────────────────────────────────────────────────────
+  FAILED  https://feeds.reuters.com/reuters/topNews
+          [https://feeds.reuters.com/reuters/topNews] Network error
+
+[001] ────────────────────────────────────────────────────────
+  Title   : BBC News app
+  Source  : BBC News
+  Date    : Wed, 30 Apr 2025 14:04:28 GMT
+  Link    : https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss
+  Summary : Top stories, breaking news, live reporting, and follow news topics that match your interests
+
+[002] ────────────────────────────────────────────────────────
+  Title   : Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid
+  Source  : World news | The Guardian
+  Date    : Wed, 29 Apr 2026 07:00:48 GMT
+  Link    : https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid
+  Summary : <p>Soaring oil prices and the blockade are preventing food, fuel and medicine being delivered to millions of people in desperate need, say NGOs</p><p>The volatility of global oil prices caused by the US and Israel’s war on Iran is taking a toll on the most vulnerable people, by slowing or blocking f
+
+[003] ────────────────────────────────────────────────────────
+  Title   : Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo
+  Source  : World news | The Guardian
+  Date    : Wed, 29 Apr 2026 07:00:48 GMT
+  Link    : https://www.theguardian.com/world/2026/apr/29/indian-billionaire-son-anant-ambani-offers-house-pablo-escobar-hippos
+  Summary : <p>Anant Ambani revives offer to transport 80 animals, all descendants of Colombian drug kingpin’s pets, to India</p><p>It remains one of the strangest conundrums in modern zoological history – what to do with the descendants of Pablo Escobar’s hippos?</p><p>The animals – herbivores native to sub-Sa
+
+[004] ────────────────────────────────────────────────────────
+  Title   : The no-nonsense judge calling the shots in Musk v Altman trial
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 23:52:48 GMT
+  Link    : https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss
+  Summary : The feud has fuelled a costly showdown between two tech titans.
+
+[005] ────────────────────────────────────────────────────────
+  Title   : Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 23:50:25 +0000
+  Link    : https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html
+  Summary : Shivon Zilis worked closely with Elon Musk while she was on OpenAI’s board. Her ties to the world’s richest man were detailed in a landmark trial on Wednesday.
+
+[006] ────────────────────────────────────────────────────────
+  Title   : Giuliani Seeks to Have Health Care Covered by 9/11 Program
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 23:32:38 +0000
+  Link    : https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html
+  Summary : The former New York City mayor, who is improving after a serious case of pneumonia, suffers from a respiratory condition linked to his exposure to toxins at ground zero, his spokesman says.
+
+[007] ────────────────────────────────────────────────────────
+  Title   : Key bridge linking North Korea and Russia almost finished, satellite images show
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 23:25:24 GMT
+  Link    : https://www.bbc.com/news/articles/cwy2e3wwd55o?at_medium=RSS&at_campaign=rss
+  Summary : The road crossing is the latest sign of the deepening relationship between Pyongyang and Moscow.
+
+[008] ────────────────────────────────────────────────────────
+  Title   : Ads on Apple Maps
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 23:00:01 +0000
+  Link    : https://ads.apple.com/maps
+  Summary : <p>Article URL: <a href="https://ads.apple.com/maps">https://ads.apple.com/maps</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48043010">https://news.ycombinator.com/item?id=48043010</a></p> <p>Points: 44</p> <p># Comments: 37</p>
+
+[009] ────────────────────────────────────────────────────────
+  Title   : How cameras are being used to tackle abuse in nurseries
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 22:59:03 GMT
+  Link    : https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&at_campaign=rss
+  Summary : With reports of abuse and deaths fuelling concern among parents, questions are growing over whether CCTV can offer real protection for children - or not.
+
+[010] ────────────────────────────────────────────────────────
+  Title   : From ego-ridden team to complete package - why PSG pose ultimate test
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 22:58:01 GMT
+  Link    : https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss
+  Summary : Luis Enrique's expertise at rebuilding a culture as well as a team means Arsenal will confront the complete package when they meet holders PSG in the Champions League final.
+
+[011] ────────────────────────────────────────────────────────
+  Title   : Jack Smith Calls the Justice Dept. ‘Corrupted’ by Trump and His Allies
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 22:52:24 +0000
+  Link    : https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html
+  Summary : At a private event in Washington last month, Mr. Smith, the former special counsel, accused Justice Department leaders of targeting people for prosecution to please and impress the president.
+
+[012] ────────────────────────────────────────────────────────
+  Title   : Man charged in DC shooting was walking near JD Vance’s motorcade, agent says
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 22:26:44 GMT
+  Link    : https://www.theguardian.com/us-news/2026/may/06/washington-dc-shooting-jd-vance
+  Summary : <p>Michael Marx was shot by authorities multiple times and then taken to a hospital after bystander was wounded</p><p>A man accused of firing a gun at law enforcement officers near the Washington monument this week was walking along the path of <a href="https://www.theguardian.com/us-news/jd-vance">
+
+[013] ────────────────────────────────────────────────────────
+  Title   : Trump’s Indiana Victory Shows His Enduring Grip on Core Republican Supporters
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 22:17:22 +0000
+  Link    : https://www.nytimes.com/2026/05/06/us/politics/trump-indiana-republican-base.html
+  Summary : Low approval ratings? MAGA divisions? The president was able to turn out party loyalists in an Indiana primary to help him oust Republican state lawmakers who had crossed him.
+
+[014] ────────────────────────────────────────────────────────
+  Title   : SQLite Is a Library of Congress Recommended Storage Format
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 21:58:43 +0000
+  Link    : https://sqlite.org/locrsf.html
+  Summary : <p>Article URL: <a href="https://sqlite.org/locrsf.html">https://sqlite.org/locrsf.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48042434">https://news.ycombinator.com/item?id=48042434</a></p> <p>Points: 220</p> <p># Comments: 59</p>
+
+[015] ────────────────────────────────────────────────────────
+  Title   : Three evacuated from hantavirus-hit ship as Spain says vessel can dock
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 21:51:37 GMT
+  Link    : https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa
+  Summary : <p>British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary Islands</p><ul><li><p><a href="https://www.theguardian.com/science/2026/may/04/what-is-hantavirus-the-infection-that-has-killed-three-people-on-a-cruise-ship">Explainer: What is hantavirus?</a></p><
+
+[016] ────────────────────────────────────────────────────────
+  Title   : Air-Conditioning Is in Short Supply as Asia Swelters
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 21:45:11 +0000
+  Link    : https://www.nytimes.com/2026/05/06/world/asia/asia-heatwave-air-conditioning-fuel-crisis.html
+  Summary : From classrooms to crowded buses, people across South and Southeast Asia are adjusting to life with less cooling — or none at all — as the war in Iran drives an energy crunch.
+
+[017] ────────────────────────────────────────────────────────
+  Title   : 'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 21:29:18 GMT
+  Link    : https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss
+  Summary : Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.
+
+[018] ────────────────────────────────────────────────────────
+  Title   : Late Bayern pressure not enough as PSG return to Champions League final
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 21:23:10 GMT
+  Link    : https://www.bbc.com/sport/football/videos/cx21jp2egxzo?at_medium=RSS&at_campaign=rss
+  Summary : Harry Kane's injury-time equaliser earns Bayern Munich a 1-1 second leg draw at the Allianz Arena as holders PSG seal their return to the Champions League final 6-5 on aggregate, where they will meet Arsenal in Budapest.
+
+[019] ────────────────────────────────────────────────────────
+  Title   : Meditating or Rebooting? A Robot Buddhist Monk Comes to Korea.
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 21:21:44 +0000
+  Link    : https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html
+  Summary : Gabi, the newest monk at a temple in Seoul, vowed to not overcharge as it seeks enlightenment.
+
+[020] ────────────────────────────────────────────────────────
+  Title   : Iran War Looms Over Vance as He Visits Iowa
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 21:20:43 +0000
+  Link    : https://www.nytimes.com/2026/05/06/us/politics/jd-vance-iowa-2028.html
+  Summary : The vice president, a skeptic of the war, made his first visit of the cycle to the state that will kick off the 2028 nominating process.
+
+[021] ────────────────────────────────────────────────────────
+  Title   : US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 21:03:56 GMT
+  Link    : https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing
+  Summary : <p>President tells Iran to accept deal to end war or face new wave of bombing at ‘much higher level and intensity’</p><p>The US military fired on an Iranian-flagged oil tanker on Wednesday, shortly after Donald Trump issued a fresh ultimatum to Tehran, telling it to accept a deal to end the war or f
+
+[022] ────────────────────────────────────────────────────────
+  Title   : U.S. Troops in Middle East Wait for the Next Big Moment
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 21:00:46 +0000
+  Link    : https://www.nytimes.com/2026/05/06/us/politics/us-troops-iran.html
+  Summary : The U.S. military is essentially on standby as officials give contradictory signals about the status of the Iran war effort.
+
+[023] ────────────────────────────────────────────────────────
+  Title   : Saka the hero as Arsenal reach first Champions League final in 20 years
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 21:00:05 GMT
+  Link    : https://www.bbc.com/sport/football/videos/cy42mxj22jdo?at_medium=RSS&at_campaign=rss
+  Summary : Bukayo Saka scores the only goal of the game to send Arsenal back to the Champions League final for the first time since 2006, as Mikel Arteta's side see off Atletico Madrid 1-0 at the Emirates Stadium.
+
+[024] ────────────────────────────────────────────────────────
+  Title   : The New El Niño Might Make 2027 the Hottest Year on Record
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 20:49:32 +0000
+  Link    : https://www.nytimes.com/2026/05/06/opinion/el-nino-climate.html
+  Summary : The El Niño brewing this year might make 2027 the hottest year on record.
+
+[025] ────────────────────────────────────────────────────────
+  Title   : Inside Man City's WSL title-winning season
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 20:47:52 GMT
+  Link    : https://www.bbc.com/sport/football/articles/c2lrzd4x02vo?at_medium=RSS&at_campaign=rss
+  Summary : Manchester City have won a first Women's Super League title in 10 years - but how did they achieve it?
+
+[026] ────────────────────────────────────────────────────────
+  Title   : Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 20:17:18 +0000
+  Link    : https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html
+  Summary : As one of the most important figures in media history, he oversaw a vast cable empire of news, sports and entertainment channels.
+
+[027] ────────────────────────────────────────────────────────
+  Title   : Electioncast: It’s Time To Vote!
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 19:08:00 GMT
+  Link    : https://www.bbc.co.uk/sounds/play/p0njf9sj?at_medium=RSS&at_campaign=rss
+  Summary : Adam, Laura, Chris, James and Felicity bring you one last update before the polls open.
+
+[028] ────────────────────────────────────────────────────────
+  Title   : Programming Still Sucks
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 19:06:41 +0000
+  Link    : https://www.stvn.sh/writing/programming-still-sucks-fqffhyp
+  Summary : <p>Article URL: <a href="https://www.stvn.sh/writing/programming-still-sucks-fqffhyp">https://www.stvn.sh/writing/programming-still-sucks-fqffhyp</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48040269">https://news.ycombinator.com/item?id=48040269</a></p> <p>Points: 347</p> 
+
+[029] ────────────────────────────────────────────────────────
+  Title   : Learning the Integral of a Diffusion Model
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 18:46:27 +0000
+  Link    : https://sander.ai/2026/05/06/flow-maps.html
+  Summary : <p>Article URL: <a href="https://sander.ai/2026/05/06/flow-maps.html">https://sander.ai/2026/05/06/flow-maps.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48040002">https://news.ycombinator.com/item?id=48040002</a></p> <p>Points: 132</p> <p># Comments: 21</p>
+
+[030] ────────────────────────────────────────────────────────
+  Title   : New Study Shows Risks of Amazon Deforestation. And Rewards of Protection.
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 18:25:04 +0000
+  Link    : https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html
+  Summary : Researchers examined the combined effects of tree loss and global warming in an effort to better understand how and when an ecosystem collapse could unfold.
+
+[031] ────────────────────────────────────────────────────────
+  Title   : Is Donald Trump close to finishing his war with Iran?
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 18:02:00 GMT
+  Link    : https://www.bbc.co.uk/sounds/play/p0njpzv3?at_medium=RSS&at_campaign=rss
+  Summary : Or has the US president lost control?
+
+[032] ────────────────────────────────────────────────────────
+  Title   : Google Cloud fraud defense, the next evolution of reCAPTCHA
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 17:59:33 +0000
+  Link    : https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/
+  Summary : <p>Article URL: <a href="https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/">https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/</a></p> <p>Comme
+
+[033] ────────────────────────────────────────────────────────
+  Title   : How the Fight Over Israel Is Playing Out Inside MAGA
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 17:47:12 +0000
+  Link    : https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html
+  Summary : The war in Iran has added to a tectonic shift in public opinion — a bipartisan swing away from Israel. Some on the far-right are fighting to keep President Trump’s movement aligned with the Jewish state.
+
+[034] ────────────────────────────────────────────────────────
+  Title   : Trump's hopes for an Iran peace deal come with caveats
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 17:32:04 GMT
+  Link    : https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss
+  Summary : There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.
+
+[035] ────────────────────────────────────────────────────────
+  Title   : From Supabase to Clerk to Better Auth
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 17:19:34 +0000
+  Link    : https://blog.val.town/better-auth
+  Summary : <p>Article URL: <a href="https://blog.val.town/better-auth">https://blog.val.town/better-auth</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48038827">https://news.ycombinator.com/item?id=48038827</a></p> <p>Points: 254</p> <p># Comments: 176</p>
+
+[036] ────────────────────────────────────────────────────────
+  Title   : SoundOff: Low-Cost Passive Ultrasound Tags
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 17:13:54 +0000
+  Link    : https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non
+  Summary : <p>Article URL: <a href="https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non">https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48038750">https://news.ycombi
+
+[037] ────────────────────────────────────────────────────────
+  Title   : Oil prices fall as Trump says strait of Hormuz ‘open to all’ if Iran accepts deal
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 16:58:59 GMT
+  Link    : https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran
+  Summary : <p>US president says war will end if Tehran agrees to deal, but that ‘bombing starts’ again if it does not</p><p></p><p>Oil prices fell and stock markets rose as Donald Trump said the war with Iran would end and the strait of Hormuz would be “open to all” if Tehran struck a deal with Washington.</p>
+
+[038] ────────────────────────────────────────────────────────
+  Title   : Who can I vote for in my area?
+  Source  : BBC News
+  Date    : Wed, 06 May 2026 16:51:29 GMT
+  Link    : https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss
+  Summary : Elections are taking place across the UK. Find out whether there is one where you live and who you can vote for.
+
+[039] ────────────────────────────────────────────────────────
+  Title   : Show HN: Hallucinopedia
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 16:37:52 +0000
+  Link    : http://halupedia.com/
+  Summary : <p>Article URL: <a href="http://halupedia.com/">http://halupedia.com/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48038257">https://news.ycombinator.com/item?id=48038257</a></p> <p>Points: 214</p> <p># Comments: 196</p>
+
+[040] ────────────────────────────────────────────────────────
+  Title   : Appearing productive in the workplace
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 16:18:29 +0000
+  Link    : https://nooneshappy.com/article/appearing-productive-in-the-workplace/
+  Summary : <p>Article URL: <a href="https://nooneshappy.com/article/appearing-productive-in-the-workplace/">https://nooneshappy.com/article/appearing-productive-in-the-workplace/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48038001">https://news.ycombinator.com/item?id=48038001</a></
+
+[041] ────────────────────────────────────────────────────────
+  Title   : Pope Leo rejects claim he supports nuclear weapons after Trump tirade
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 16:13:00 GMT
+  Link    : https://www.theguardian.com/world/2026/may/06/pope-leo-rejects-claim-he-supports-nuclear-weapons-trump-tirade-iran-war
+  Summary : <p>Pontiff responds after US president accuses him of ‘endangering a lot of Catholics’ with stance on Iran war</p><ul><li><p><a href="https://www.theguardian.com/world/2026/may/06/american-born-pope-leo-thoughts">People in the US: what do you think of Chicago-born Pope Leo?</a></p></li></ul><p>Pope 
+
+[042] ────────────────────────────────────────────────────────
+  Title   : Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 15:58:34 +0000
+  Link    : https://tilde.run/
+  Summary : <p>Article URL: <a href="https://tilde.run/">https://tilde.run/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48037724">https://news.ycombinator.com/item?id=48037724</a></p> <p>Points: 161</p> <p># Comments: 111</p>
+
+[043] ────────────────────────────────────────────────────────
+  Title   : Valve releases Steam Controller CAD files under Creative Commons license
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 15:44:13 +0000
+  Link    : https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
+  Summary : <p>Article URL: <a href="https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license">https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license</a></p> <p>Comments URL: <a href="https:
+
+[044] ────────────────────────────────────────────────────────
+  Title   : Vibe coding and agentic engineering are getting closer than I'd like
+  Source  : Hacker News: Front Page
+  Date    : Wed, 06 May 2026 15:06:37 +0000
+  Link    : https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+  Summary : <p>Article URL: <a href="https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/">https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=48037128">https://news.ycombinator.com/item?id=48037128
+
+[045] ────────────────────────────────────────────────────────
+  Title   : ‘Defeated by conspiracy’: West Bengal chief minister refuses to resign after election loss
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 13:46:24 GMT
+  Link    : https://www.theguardian.com/world/2026/may/06/west-bengal-chief-minister-mamata-banerjee-refuses-to-resign-election-narendra-modi-india
+  Summary : <p>Mamata Banerjee says Narendra Modi’s party ‘forcefully captured’ election that ended her party’s 15 years in power</p><p>A political showdown is taking place in the Indian state of West Bengal as the chief minister, Mamata Banerjee, India’s most powerful female politician, has refused to resign a
+
+[046] ────────────────────────────────────────────────────────
+  Title   : US cancels visas for board of Costa Rica newspaper critical of Trump ally
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 13:13:47 GMT
+  Link    : https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump
+  Summary : <p>Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ </p><p>The US state department has <a href="https://www.nytimes.com/es/2026/05/04/espanol/america-latina/la-nacion-costa-rica-visas-trump.html">cancelled tourist visas</a> for more than half of the 
+
+[047] ────────────────────────────────────────────────────────
+  Title   : A Landslide in Alaska Set Off a Tsunami. There May Be More to Come.
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 13:02:35 +0000
+  Link    : https://www.nytimes.com/2026/05/06/science/tsunami-landslide-alaska-climate-arctic.html
+  Summary : Scientists say as glaciers retreat in a warming climate, landslide-generated tsunamis are likely to become more frequent.
+
+[048] ────────────────────────────────────────────────────────
+  Title   : Mexico nightclub’s $300 cover charge for US citizens captures popular mood
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 10:00:05 GMT
+  Link    : https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens
+  Summary : <p>Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’</p><p>A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from any other country pay just $20 for access, and Mexicans 
+
+[049] ────────────────────────────────────────────────────────
+  Title   : The Longevity Secrets Helping Athletes Blow Past the Limits of Age
+  Source  : NYT > Top Stories
+  Date    : Wed, 06 May 2026 09:01:20 +0000
+  Link    : https://www.nytimes.com/2026/05/06/magazine/pro-athletes-longevity-secrets-age.html
+  Summary : With cutting-edge sports medicine and sci-fi gadgetry, more and more athletes are figuring out how to extend their careers.
+
+[050] ────────────────────────────────────────────────────────
+  Title   : Singapore introduces caning for boys who bully others at school
+  Source  : World news | The Guardian
+  Date    : Wed, 06 May 2026 05:26:02 GMT
+  Link    : https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies
+  Summary : <p>Under new guidelines caning will only be used in schools for male students aged nine and above</p><p>Male school students who bully others, including through cyberbullying, will face caning as a “last resort” under new guidelines introduced in Singapore.</p><p>Male students can face up to three s
+
